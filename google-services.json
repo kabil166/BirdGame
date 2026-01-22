@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460375551100",
+    "project_id": "birdgame-a3198",
+    "storage_bucket": "birdgame-a3198.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460375551100:android:46dc83671dd16cbf8aadf9",
+        "android_client_info": {
+          "package_name": "com.birdgame.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460375551100-v8td6mptr6rondtjtdof6jf2s6n8798n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birdgame.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "460375551100-mm5oapsd40k3msb12jv2nrmmlgaef7d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhHX1kARxwWxkYBL1boWlDlMcCOJl_v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460375551100-mm5oapsd40k3msb12jv2nrmmlgaef7d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

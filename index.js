@@ -1,5 +1,8 @@
 import { registerRootComponent } from 'expo';
 
+// Import polyfills for React Navigation web compatibility
+import './polyfills';
+
 import App from './App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
